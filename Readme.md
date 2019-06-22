@@ -38,7 +38,7 @@
 
 ### 2. biggestEarthquakes -> retrieves the top ten highest magnitude earthquakes within the last 24 hours
 
-Mutation API Documentation:
+# Mutation API Documentation:
 
 ### 1. fetchEarthquakes -> retrieves 100 earthquakes from this [link](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) and then puts in the database
 
