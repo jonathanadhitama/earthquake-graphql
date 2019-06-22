@@ -25,6 +25,10 @@
 -   \$ DEBUG=earthquake:\* npm start
 -   Go to [localhost:3000/graphql](http://localhost:3000/graphql) or use [Insomnia](https://insomnia.rest/) to interact with GraphQL Server
 
+# Testing the application:
+
+-   \$ ./node_modules/mocha/bin/mocha
+
 # Assumptions:
 
 -   Fetching new earthquakes will delete the existing earthquakes entries in the database otherwise ID cannot be guaranteed to be unique
