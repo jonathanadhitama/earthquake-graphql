@@ -22,6 +22,7 @@
 -   Update environment variables
 -   \$ node_modules/.bin/sequelize db:migrate
 -   \$ DEBUG=earthquake:\* npm start
+-   Go to localhost:3000/graphql or use [Insomnia](https://insomnia.rest/) to interact with GraphQL Server
 
 # Assumptions:
 
