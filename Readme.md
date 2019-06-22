@@ -17,6 +17,7 @@
 
 # Starting the application:
 
+-   Create Database in MySQL
 -   Navigate to project directory via Terminal
 -   \$ npm i
 -   Update environment variables
